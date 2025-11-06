@@ -15,7 +15,7 @@ This README serves as a quick start guide to deploy Zscaler VZEN resources in Mi
 
 ## **Azure Deployment Scripts for Terraform**
 
-Use this repository to create the deployment resources required to deploy and operate VZEN in a new or existing resource group and virtual network. The [examples directory](https://bitbucket.corp.zscaler.com/projects/EIO/repos/terraform-azurerm-vzen-modules/browse/examples) contains complete automation scripts for both greenfield and brownfield use.
+Use this repository to create the deployment resources required to deploy and operate VZEN in a new or existing resource group and virtual network. The [examples directory](https://github.com/zscaler/terraform-azurerm-vzen-modules/tree/main/examples) contains complete automation scripts for both greenfield and brownfield use.
 
 ## **Prerequisites**
 
